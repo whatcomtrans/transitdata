@@ -1,5 +1,5 @@
 name: WTA Transit Data
 description: WTA Transit Data, Apps, APIs and GIS Information
 url: "https://transitdata.ridewta.com"
-theme: jekyll-theme-architect
+theme: jekyll-theme-tactile
 markdown: GFM
