@@ -3,7 +3,7 @@ WTA maintains a number of websites and mobile Apps.  We also provide a list of k
 
 ## WTA Apps
 | App | web | iOS | Android |
-|-----|-----|-----|---------|
+| --- | --- | --- | --- |
 |BusTracker | bustracker.ridewta.com | [App Store](https://apps.apple.com/us/app/wta-bustracker/id1500336076) | [Play Store](https://play.google.com/store/apps/details?id=com.WTA.BusTracker&hl=en_US&gl=US)
 | UMO Mobility | none | [App Store](https://apps.apple.com/us/app/umo-mobility/id1540611257) | [Play Store](https://play.google.com/store/apps/details?id=com.cubic.ctp.app&hl=en_US&gl=US) |
 |Schedules | schedules.ridewta.com | PWA | PWA |
