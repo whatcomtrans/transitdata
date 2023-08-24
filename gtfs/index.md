@@ -1,7 +1,7 @@
 # GTFS
 
 ## GTFS static
-​WTA provides GTFS feeds for updates to our service information.
+​WTA provides GTFS feeds for updates to our service information.  See [GTFS Reference](https://gtfs.org/schedule/reference/) for the field and file defintions.
 
 Our static GTFS files are kept up to date on our [github](https://github.com/whatcomtrans/publicwtadata/tree/master/GTFS) page​ and may downloaded from:
 
